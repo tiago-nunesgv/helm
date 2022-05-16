@@ -41,7 +41,7 @@ require (
 	github.com/xeipuuv/gojsonschema v1.1.0
 	github.com/xenolf/lego v0.3.2-0.20160613233155-a9d8cec0e656 // indirect
 	golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.8
 	k8s.io/api v0.0.0
 	k8s.io/apiextensions-apiserver v0.0.0
 	k8s.io/apimachinery v0.0.0
